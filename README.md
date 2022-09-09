@@ -8,18 +8,27 @@ At the same time I did a Node.js course on Udemy. Where i Learned how to use Exp
 
 📫 How to reach me:
 Linkedin: https://www.linkedin.com/in/tomas-millan-lanhozo-8b8977162/
+
 Mail: tomas.millan96@gmail.com
 
 ## Technologies I use
 
  HTML
+ 
  CSS
+ 
  SASS
+ 
  Bootstrap
+ 
  Javascript
+ 
   Vanilla JS 
+  
   React
+  
   Express
+  
   Node
   
   ----------------------------------------------------
@@ -32,19 +41,29 @@ Al mismo tiempo hice un curso de Node.js en Udemy. Donde aprendí a usar Express
 🌱 Actualmente estoy aprendiendo React.js en CoderHouse.
 
 📫 Maneras de Contactarme:
+
 Linkedin: https://www.linkedin.com/in/tomas-millan-lanhozo-8b8977162/
+
 Mail: tomas.millan96@gmail.com
 
 ## Tecnologías que uso
 
  HTML
+ 
  CSS
+ 
  SASS
+ 
  Bootstrap
+ 
  JavaScript
+ 
   Vainilla JS
-  reaccionar
+  
+  React JS
+  
   Express
+  
   Node
 
 
