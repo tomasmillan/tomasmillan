@@ -7,7 +7,8 @@ At the same time I did a Node.js course on Udemy. Where i Learned how to use Exp
 🌱 I’m currently learning React.js at CoderHouse. 
 
 Some web pages ==> 
-Portfolio: Click [Here] (https://tomasmillan.github.io/Portfolio-Cocinero/#)
+Portfolio: Click 
+[here] (https://tomasmillan.github.io/Portfolio-Cocinero/#)
 
 📫 How to reach me:
 Linkedin: https://www.linkedin.com/in/tomas-millan-lanhozo-8b8977162/
