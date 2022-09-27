@@ -7,11 +7,17 @@ At the same time I did a Node.js course on Udemy. Where i Learned how to use Exp
 🌱 I’m currently learning React.js at CoderHouse. 
 
 Some projects ==> 
+
 Chef Portfolio:  [Portfolio Design](https://tomasmillan.github.io/Portfolio-Cocinero/#) / HTML-CSS-Javascript
+
 Music Streaming Platform: [Isiuey](https://isiuey.org) / HTML-CSS-Javascript
+
 Portfolio e-commerce: [Salud sin recetas](https://tomasmillan.github.io/e-commerce-portfolio/) / HTML-CSS-Javascript
+
 Fullstack Blog Layout: [Fullstack Blog](https://fullstackblog-tomi.herokuapp.com/) / Node.js-Express.js-SASS-HTML-Javascript
+
 Bootstrap e-commerce layout: [Marvel e-commerce](https://peaceful-moonbeam-d3784f.netlify.app/) / React.js-Bootstrap
+
 Blog Web layout: [Blog](https://tomasmillan.github.io/Blog-Portfolio/) / HTML-SASS
 
 
@@ -51,11 +57,17 @@ Al mismo tiempo hice un curso de Node.js en Udemy. Donde aprendí a usar Express
 🌱 Actualmente estoy aprendiendo React.js en CoderHouse.
 
 Algunos de los proyectos ==> 
+
 Portfolio Chef:  [Portfolio Design](https://tomasmillan.github.io/Portfolio-Cocinero/#) / HTML-CSS-Javascript
+
 Plataforma de Musica: [Isiuey](https://isiuey.org) / HTML-CSS-Javascript
+
 Portfolio e-commerce: [Salud sin recetas](https://tomasmillan.github.io/e-commerce-portfolio/) / HTML-CSS-Javascript
+
 Maqueteado Fullstack Blog: [Fullstack Blog](https://fullstackblog-tomi.herokuapp.com/) / Node.js-Express.js-SASS-HTML-Javascript
+
 Maqueteado de e-commerce con bootstrap: [Marvel e-commerce](https://peaceful-moonbeam-d3784f.netlify.app/) / React.js-Bootstrap
+
 Maqueteado de un Blog: [Blog](https://tomasmillan.github.io/Blog-Portfolio/) / HTML-SASS
 
 
