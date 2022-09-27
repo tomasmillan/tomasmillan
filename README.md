@@ -52,7 +52,7 @@ Mail: tomas.millan96@gmail.com
   ----------------------------------------------------
   ### Hola 👋
 Soy Tomas Millan Lanhozo, tengo 26 años, soy estudiante de publicidad en la Universidad del Salvador en Buenos Aires.
-Me considero una persona curiosa y con muy buena capacidad para trabajar en equipo y ayudar a cualquiera a cumplir los objetivos marcados.
+Me considero una persona curiosa y con una muy buena capacidad para trabajar en equipo y ayudar con el cumplimiento de los objetivos marcados.
 Hice el curso de desarrollo web en CoderHouse donde aprendí los fundamentos de HTML5, CSS3, SASS y Bootstrap.
 También hice un curso de javascript en CoderHouse donde aprendí a usar bibliotecas y programación orientada a objetos.
 Al mismo tiempo hice un curso de Node.js en Udemy. Donde aprendí a usar Express.js y Node.js
