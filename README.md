@@ -22,7 +22,9 @@ Blog Web layout: [Blog](https://tomasmillan.github.io/Blog-Portfolio/) / HTML-SA
 
 
 📫 How to reach me:
+
 Linkedin: https://www.linkedin.com/in/tomas-millan-lanhozo-8b8977162/
+
 Behance: https://www.behance.net/tomasmillan
 
 Mail: tomas.millan96@gmail.com
@@ -74,6 +76,7 @@ Maqueteado de un Blog: [Blog](https://tomasmillan.github.io/Blog-Portfolio/) / H
 📫 Maneras de Contactarme:
 
 Linkedin: https://www.linkedin.com/in/tomas-millan-lanhozo-8b8977162/
+
 Behance: https://www.behance.net/tomasmillan
 
 Mail: tomas.millan96@gmail.com
