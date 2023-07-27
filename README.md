@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tomas Millan Lanhozo, im 27 years old i'm a student of advertising at universidad del Salvador on Buenos Aires. 
+I'm Tomas Millan Lanhozo, im 27 years old I have a degree on advertising at universidad del Salvador on Buenos Aires. 
 I'm a Frontend Developer trying to become a Fullstack Developer, here you can find some examples of what i did and my path into being a developer
 I consider myself someone curious and with a very good ability to work in a team and help anyone to meet the objectives set.
 I did the web development course at CoderHouse where I learned the basics of HTML5, CSS3, SASS and Bootstrap.
@@ -60,7 +60,7 @@ Mail: tomas.millan96@gmail.com
   
   ----------------------------------------------------
   ### Hola 👋
-Soy Tomas Millan Lanhozo, tengo 27 años, soy estudiante de publicidad en la Universidad del Salvador en Buenos Aires.
+Soy Tomas Millan Lanhozo, tengo 27 años, soy Licenciado en publicidad de la Universidad del Salvador en Buenos Aires.
 Soy un desarrollador frontend conviertendome en un desarrollador Fullstack, aca vas a poder ver ejemplos de los distintos proyectos en los que participe y un poco de mi camino para ser un programador.
 Me considero una persona curiosa y con una muy buena capacidad para trabajar en equipo y ayudar con el cumplimiento de los objetivos marcados.
 Hice el curso de desarrollo web en CoderHouse donde aprendí los fundamentos de HTML5, CSS3, SASS y Bootstrap.
