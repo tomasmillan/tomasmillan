@@ -1,12 +1,17 @@
 ### Hi there 👋
-I'm Tomas Millan Lanhozo, im 27 years old I have a degree on advertising at universidad del Salvador on Buenos Aires. 
-I'm a Frontend Developer trying to become a Fullstack Developer, here you can find some examples of what i did and my path into being a developer
-I consider myself someone curious and with a very good ability to work in a team and help anyone to meet the objectives set.
-I did the web development course at CoderHouse where I learned the basics of HTML5, CSS3, SASS and Bootstrap.
-I also did a javascript course at CoderHouse where I learned how to use libraries and object oriented programming.
-At the same time I did a Node.js course on Udemy. Where i Learned how to use Express.js and Node.js
-🌱 I did a React.js course at CoderHouse. 
-Now i'm studying to become a fullstack developer, i'm doing a course of PHP and SQL on Udemy.
+I'm a 29-year-old Frontend Developer & UX/UI Designer from Buenos Aires, Argentina. Based on Valencia for the moment.
+I hold a degree in Advertising from Universidad del Salvador, and over time, my passion for design, technology, and user-centered thinking led me to fully focus on web development and crafting intuitive digital experiences.
+
+💻 I specialize 100% in frontend development and UX/UI design, aiming to create functional, aesthetic, and user-friendly interfaces that enhance the overall experience.
+
+🔧 My journey began at CoderHouse, where I learned the foundations of HTML5, CSS3, SASS, and Bootstrap. I continued with a JavaScript course, diving into libraries and object-oriented programming. I also took a React.js course at CoderHouse, solidifying my skills in modern JavaScript frameworks and component-based development. I also completed a Node.js and Express.js course on Udemy to expand my backend knowledge.
+
+🚀 I’m a curious and collaborative person, always eager to improve, help others, and bring ideas to life through code and design.
+
+👇 Below, you'll find the link to my portfolio, where you can explore some of my latest projects and see how I merge functionality with design.
+
+🔗 https://tomasmillan96b387.myportfolio.com/ 
+
 
 
 Some projects ==> 
@@ -60,14 +65,19 @@ Mail: tomas.millan96@gmail.com
   
   ----------------------------------------------------
   ### Hola 👋
-Soy Tomas Millan Lanhozo, tengo 27 años, soy Licenciado en publicidad de la Universidad del Salvador en Buenos Aires.
-Soy un desarrollador frontend conviertendome en un desarrollador Fullstack, aca vas a poder ver ejemplos de los distintos proyectos en los que participe y un poco de mi camino para ser un programador.
-Me considero una persona curiosa y con una muy buena capacidad para trabajar en equipo y ayudar con el cumplimiento de los objetivos marcados.
-Hice el curso de desarrollo web en CoderHouse donde aprendí los fundamentos de HTML5, CSS3, SASS y Bootstrap.
-También hice un curso de javascript en CoderHouse donde aprendí a usar bibliotecas y programación orientada a objetos.
-Al mismo tiempo hice un curso de Node.js en Udemy. Donde aprendí a usar Express.js y Node.js
-🌱 Realice un curso de React.js en CoderHouse.
-Ahora me encuentro estudiando los lenguajes PHP y SQL para convertirme en un desarrollador fullstack.
+Soy un desarrollador Frontend y diseñador UX/UI de 29 años, originario de Buenos Aires, Argentina, y actualmente basado en Valencia.
+
+Me gradué en Publicidad en la Universidad del Salvador, y con el tiempo, mi pasión por el diseño, la tecnología y el enfoque centrado en el usuario me llevó a dedicarme por completo al desarrollo web y a la creación de experiencias digitales intuitivas.
+
+💻 Me especializo al 100% en desarrollo frontend y diseño UX/UI, con el objetivo de crear interfaces funcionales, estéticas y fáciles de usar que mejoren la experiencia del usuario.
+
+🔧 Mi camino comenzó en CoderHouse, donde aprendí los fundamentos de HTML5, CSS3, SASS y Bootstrap. Luego realicé un curso de JavaScript, profundizando en el uso de librerías y la programación orientada a objetos. Más adelante, completé un curso de React.js en CoderHouse, fortaleciendo mis conocimientos en frameworks modernos y desarrollo basado en componentes. Además, hice un curso de Node.js y Express.js en Udemy para ampliar mis habilidades en backend.
+
+🚀 Me considero una persona curiosa y colaborativa, siempre con ganas de mejorar, ayudar a los demás y dar vida a las ideas a través del código y el diseño.
+
+👇 A continuación, podés ver el enlace a mi portfolio, donde encontrarás algunos de mis proyectos más recientes y cómo combino la funcionalidad con el diseño:
+
+🔗 https://tomasmillan96b387.myportfolio.com/
 
 Algunos de los proyectos ==> 
 
@@ -118,17 +128,3 @@ Mail: tomas.millan96@gmail.com
   Node
   
   PHP (conocimientos basicos)
-  <!--
-**tomasmillan/tomasmillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
